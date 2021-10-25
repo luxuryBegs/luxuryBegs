@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luxuryBegs
+- 👀 I’m interested in code
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on School
+- 📫 How to reach me Just @ me
